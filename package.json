@@ -1,6 +1,6 @@
 {
   "name": "gpio-stream",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Readable and Writable GPIO Streams for use with the Raspberry Pi",
   "main": "index.js",
   "scripts": {
