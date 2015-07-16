@@ -12,11 +12,15 @@
     "GPIO",
     "adafruit"
   ],
-  "author": {
-    "name": "Todd Treece",
-    "email": "todd@uniontownlabs.org"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adafruit/gpio-stream"
   },
+  "author": "Todd Treece <todd@uniontownlabs.org>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adafruit/gpio-stream/issues"
+  },
   "dependencies": {
     "onoff": "^1.0.2"
   }
